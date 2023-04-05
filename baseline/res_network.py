@@ -7,7 +7,7 @@
 @Software: PyCharm
 @Des     : 
 """
-
+#bugfix 2
 import torch
 import torch.nn as nn
 from torchvision.models import resnet18,resnet34
